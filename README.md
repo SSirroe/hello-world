@@ -1,0 +1,1 @@
+Example about how we use git with more than one file
